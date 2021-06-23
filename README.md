@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Shibam Bhattacharya](https://www.linkedin.com/in/shibam-bhattacharya-261415171/) :blush:	 . Currently I am working in Kesowa Infinite Ventures PVT LTD as a Sr Backend Developer and Systems Architect :satellite:
+* I am [Shibam Bhattacharya](https://www.linkedin.com/in/shibam-bhattacharya-261415171/) :blush:	 . Currently I am working in Kesowa Infinite Ventures PVT LTD as a Full stack system engineer/backend developer :satellite:
 
 * I am a Javascript and Python Developer :toolbox: :sparkles:.
 
