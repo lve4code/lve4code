@@ -7,7 +7,7 @@
 
 * I have done multiple projects ranging from the field of Devops , Backend Structuring and Automation :file_cabinet: .
 
-* I am currently brushing up my skills and plan to learn Nodejs and Golang .
+* I am currently working with node.js and learning Golang.
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
