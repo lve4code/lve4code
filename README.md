@@ -7,10 +7,7 @@
 
 * I have done multiple projects ranging from the field of Devops , Backend Structuring and Automation :file_cabinet: .
 
-* I am currently working with node.js and learning Golang.
-
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
-
+* I am currently working with node.js and learning Golang. :bulb:
 
 * Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/shibam-bhattacharya-261415171/) :sparkler:
 
