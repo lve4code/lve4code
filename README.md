@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack System Engineer** and **Backend Developer** at Kesowa Infinite Ventures PVT LTD with a passion for building robust systems and automating complex processes.
+I'm an **Engineer** and **Backend Developer** with a passion for building robust systems and automating complex processes.
 
 - 🔭 Currently working with **Node.js** and exploring **Golang**
 - 🌱 Specialized in **JavaScript** and **Python** development
