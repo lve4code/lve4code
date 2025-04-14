@@ -1,98 +1,94 @@
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center">👋 Hello World! I'm Shibam Bhattacharya</h1>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/shibam-bhattacharya-261415171/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
-* I am [Shibam Bhattacharya](https://www.linkedin.com/in/shibam-bhattacharya-261415171/) :blush:	 . Currently I am working in Kesowa Infinite Ventures PVT LTD as a Full stack system engineer/backend developer :satellite:
+<br />
 
-* I am a Javascript and Python Developer :toolbox: :sparkles:.
+## 👨‍💻 About Me
 
-* I have done multiple projects ranging from the field of Devops , Backend Structuring and Automation :file_cabinet: .
+I'm a **Full Stack System Engineer** and **Backend Developer** at Kesowa Infinite Ventures PVT LTD with a passion for building robust systems and automating complex processes.
 
-* I am currently working with node.js and learning Golang. :bulb:
+- 🔭 Currently working with **Node.js** and exploring **Golang**
+- 🌱 Specialized in **JavaScript** and **Python** development
+- 💼 Experienced in DevOps, Backend Architecture, and Automation
+- 🚀 Always learning and adapting to new technologies
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/shibam-bhattacharya-261415171/) :sparkler:
+<br />
 
+## 🛠️ Tech Stack
 
-## Tech Stack :computer:
-
-<br>
 <table>
-<tbody>
- <tr>
-
-<td align="center" width="20%">
-<span><b><center>Postgresql</center></b></span> 
-<img height=60px src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Agisoft Metashape</center></b></span> 
-<img height=60px src="https://cdn.shopify.com/s/files/1/0262/7642/9910/products/agisoft-metashape-standard-educational-academic-license-edu-software_512_700x.jpg?v=1569882068"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
-</td>
-</tr>
-
-
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-
-<td align="center" width="20%">
-<span><b><center>Django</center></b></span> 
-<img height=65px src="https://twilio-cms-prod.s3.amazonaws.com/images/django-dark.width-808.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Node.js</center></b></span> 
-<img height=65px src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>FFMPEG</center></b></span> 
-<img height=65px src="https://4.bp.blogspot.com/-YZkw_DdLx8g/U8VCM9tGUII/AAAAAAAADmM/dNcth68dS4k/s1600/ffmpeg-logo.png"> 
-</td>
-
-
-
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
-</tr>
-
-</tbody>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      </a>
+      <br>Nginx
+    </td>
+  </tr>
 </table>
 
+## 🔧 Specialized Tools
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/FFmpeg-%23007ACC.svg?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFMPEG" />
+  <img src="https://img.shields.io/badge/Agisoft%20Metashape-4A154B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAApVBMVEUAAAD/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP/zDP///+QJmIXAAAANXRSTlMAAAIMJH3T3NWqYiYHoP3nTyGv5lUCruRJMb5ASnrW5YRsLzX+hVon1NN8Aom2typR6Yy/1z4bWsQAAAABYktHRDZHv4jRAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5gQHBi0XrP2YdwAAAGNJREFUCNdjYGBkggNGBmYWVjCDhZWNnYOTgYubB8Tg5eMXEBRiEBYRB
